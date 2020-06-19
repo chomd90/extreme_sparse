@@ -1,6 +1,6 @@
 ## ESPN: Extremely Sparse Pruned Networks
 
-This is the code used to generate results for our NeurIPS submission.
+This is the code to reproduce the results from the paper.
 
 <p>
 <img src="figures/figure1.png" height="300">
